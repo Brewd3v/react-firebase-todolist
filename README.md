@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# CRUD with ReactJS + Firebase
+
+I wanted to build a CRUD app with Firebase to get to know it a bit more. I found it really awesome that you can build a semi fullstack app with a Frontend + Firebase. 
+
+Live project: [https://simple-todo-app-ee6ae.web.app/](https://simple-todo-app-ee6ae.web.app/).
+
+You'd need add and configure Firebase.js to use this app. 
+
+I like this [Youtube tutorial](https://www.youtube.com/watch?v=yyo_TcZCrS4).
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
